@@ -1,1 +1,1 @@
-# 1BLarce_Portfolio1_CompProg
+This is my Portfolio #1 in the Subject, BES 10A: Computer Fundamentals and Programming. This is a code focusing on calculations about Newton's Second Law of Motion which are namely the mass, force, and acceleration variables.
